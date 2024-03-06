@@ -25,7 +25,4 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 ## Here My Streamlit Cloud Deploy
-
-```
 https://bike-sharing-submission.streamlit.app/
-```
